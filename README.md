@@ -35,6 +35,6 @@ This is a sample application to demonstrate how to setup and run SpringBoot test
 ````
    mvn clean test
 ````   
-4. Reports - This framework contains sample TestNG Reports under test-output folder.
+4. This framework contains sample TestNG Reports under test-output folder - index.html and emailable-report.html
 
-5. Surefire Reports can be seen under target/surefire-reports.
+5. Surefire Reports can be seen under target/surefire-reports. These reports are created when the tests are run through maven command.
